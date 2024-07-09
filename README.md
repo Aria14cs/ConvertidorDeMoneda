@@ -1,9 +1,9 @@
-# Conversor de Monedas
+## Conversor de Monedas
 
 Este proyecto es un conversor de monedas en Java que utiliza una API de tasas de cambio para realizar las conversiones.
 
 
-## Funcionalidades:
+# Funcionalidades:
 
 - Convertir entre ARS, BOB, BRL y USD.
 - Obtener las tasas de cambio más recientes desde una API(https://www.exchangerate-api.com/).
